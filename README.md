@@ -1,2 +1,2 @@
 # Computational_Material_Science
-It contains a file called m2.py which gives out pair of normalized numbers. Running it gives out a Matplot figure
+It contains a file called m2.py which gives out pair of normalized numbers. Running it gives out a Matplot figure of Normal Distribution computed by using Marsaglia Polar form.
